@@ -100,7 +100,7 @@ Our vision is to create a world where individuals have complete ownership and co
 5. Use your DID across compatible applications
 
 ---
-0x9597b4CD557Ccef8229ea346323B4AAD91057B69!
+contract e0x9597b4CD557Ccef8229ea346323B4AAD91057B69
 
 
 
